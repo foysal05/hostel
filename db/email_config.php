@@ -1,5 +1,5 @@
 <?php
-$system_email_address='webapplication.php@gmail.com';
-$system_email_pass='foysal@30159';
+$system_email_address='ypur email';
+$system_email_pass='email_password';
 
 ?>
